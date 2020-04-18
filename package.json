@@ -14,9 +14,9 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@babel/parser": "<7.4.0",
     "core-js": "^3.6.4",
-    "vue": "^2.6.11",
-    "@babel/parser": "<7.4.0"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
