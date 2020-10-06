@@ -1,5 +1,5 @@
 <template>
-  <div id="Clock">
+  <div class="clock">
     This is the clock module
   </div>
 </template>
@@ -47,7 +47,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-    #Clock {
-        
-    }
+    
 </style>

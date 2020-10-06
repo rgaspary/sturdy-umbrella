@@ -2,16 +2,19 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <Clock />
+    <Weather />
   </div>
 </template>
 
 <script>
 import Clock from './components/Clock.vue';
+import Weather from './components/Weather.vue';
 
 export default {
   name: 'App',
   components: {
     Clock,
+    Weather,
   }
 };
 </script>
