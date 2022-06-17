@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/rgaspary/sturdy-umbrella#readme",
   "devDependencies": {
-    "electron": "^10.2.0"
+    "electron": "^15.5.5"
   }
 }
